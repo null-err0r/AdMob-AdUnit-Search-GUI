@@ -1,6 +1,8 @@
 # AdMob AdUnit Search GUI (APK)
 
-ابتدا فایل apk را با  apktool d * appName.apk دیکامپایل کنید و سپس با دادن مسیر پوشه دیکامپایل شده در اسکریپت ☝️ رشته های خاص admob در فایل های
+ابتدا فایل apk را با
+  apktool d * appName.apk 
+دیکامپایل کنید و سپس با دادن مسیر پوشه دیکامپایل شده در اسکریپت ☝️ رشته های خاص admob در فایل های
 
  ['.xml', '.java', '.kt', '.txt', '.json', '.yml', '.yaml', '.dex', '.smali', '.so'] 
  
