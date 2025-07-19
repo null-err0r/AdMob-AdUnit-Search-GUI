@@ -9,3 +9,5 @@
  را به شما میدهد .
 
 ⭐️ Don't forget to put a star if you like the project!
+
+![Repo Badge](https://visitor-badge.laobi.icu/badge?page_id=null-err0r.AdMob-AdUnit-Search-GUI) 
